@@ -1,2 +1,3 @@
 This is test file - 1st line
 2nd line added in the central master
+3rd line added in the local master
