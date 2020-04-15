@@ -5,3 +5,4 @@ This is test file - 1st line
 5ht line added in the central master
 6th line added in the local B1
 7th line added in the remote B1
+8th line added in the local B1
